@@ -1,10 +1,10 @@
-# Project: Reservation Hotel App
-# Team: Database Design 44
-# Member: Bo Sung Kim
+## Project: Reservation Hotel App
+## Team: Database Design 44
+## Member: Bo Sung Kim
 
-# Description:
+## Description:
 The database is designed for hotel reservation app which can provide the reviews after using hotel (simply, think about hotels.com or expedia.com etc). The UML chart for the database is enclosed in the same zip file.
-# Problem Statement:
+## Problem Statement:
 I try to solve how to implement the relationships between multiple object and also many types of relationships through this assignment. For example, one to many, many to one and many to many. Implementing these examples with Java, MySql, and React to solve this problem.
 ## Solution Statement:
 Using Java to implementing the relationships. Studying how to use Java spring and how to use annotation properly to implementing the relationships. After this, show our data to other people (front end side) by using React. This react should cooperate with back end side. Get the information by Json format from Java spring and treat this data to show to users who use our apps on internet.
@@ -18,8 +18,8 @@ In user data model, we called customers who use this app. The customer database 
 ## Domain Object Data Model:
 My domain is travel but little bit different from an example given by professor. I don’t focus on flight, only focusing on the hotel reservation. Therefore, my domain object is hotels and reservations. There are reviews and rooms from hotel but the main two domain objects are hotels and reservations.
 
-# Relationships:
-##User to domain object relationship:
+## Relationships:
+## User to domain object relationship:
 Customers and hotels relationship is many to many. Customers and reservations relationship is one to many. 
 ## Domain object to domain object relationship:
 Hotels and rooms relationship is composition and one to many. Rooms and reservations relationship is one to many. 
@@ -44,4 +44,4 @@ The first thing to do for user interface is making kind of login page. After tha
 
  
 ## TODO:
-	I might need to think about the administer (another type of user) for this app who can enroll the hotel and rooms for customer. However, not sure I should think about administer side or not right now.
+I might need to think about the administer (another type of user) for this app who can enroll the hotel and rooms for customer. However, not sure I should think about administer side or not right now.
