@@ -2,9 +2,9 @@
 # Team: Database Design 44
 # Member: Bo Sung Kim
 
-## Description:
+# Description:
 	The database is designed for hotel reservation app which can provide the reviews after using hotel (simply, think about hotels.com or expedia.com etc). The UML chart for the database is enclosed in the same zip file.
-## Problem Statement:
+# Problem Statement:
 	I try to solve how to implement the relationships between multiple object and also many types of relationships through this assignment. For example, one to many, many to one and many to many. Implementing these examples with Java, MySql, and React to solve this problem.
 ## Solution Statement:
 	Using Java to implementing the relationships. Studying how to use Java spring and how to use annotation properly to implementing the relationships. After this, show our data to other people (front end side) by using React. This react should cooperate with back end side. Get the information by Json format from Java spring and treat this data to show to users who use our apps on internet.
