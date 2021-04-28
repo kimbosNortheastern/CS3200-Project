@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="191f024f-6065-48e4-b211-112a9bc8f360" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/react/travel/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/react/travel/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/react/travel/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/springtemplate/daos/CourseOrmDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/springtemplate/daos/SectionOrmDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/springtemplate/daos/TodoDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/springtemplate/daos/UserJdbcDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/springtemplate/daos/UserOrmDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/springtemplate/models/Course.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/springtemplate/models/Section.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/springtemplate/models/Todo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/springtemplate/models/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/springtemplate/repositories/CourseRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/springtemplate/repositories/SectionRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/springtemplate/repositories/TodoRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/springtemplate/repositories/UserRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/react/social/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/react/social/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/react/social/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/react/social/users/inline-user-editor.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/react/social/users/user-form-editor.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/react/social/users/user-list.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/react/social/users/user-service.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1qHO0JsjmTJcxYaJQaAYenQ6vo3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/webapp/react/travel" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.example.springtemplate.travel.models" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\dkrak\workspace\cs3200\DB08\db-design-orm-assignment\src\main\webapp\react\travel" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.springtemplate.travel.repositories" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.DemoApplication">
+    <configuration name="DemoApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.springtemplate.DemoApplication" />
+      <module name="spring-template" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.springtemplate.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserJdbcDao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.springtemplate.daos.UserJdbcDao" />
+      <module name="spring-template" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.springtemplate.daos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DemoApplication" />
+        <item itemvalue="Application.UserJdbcDao" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="191f024f-6065-48e4-b211-112a9bc8f360" name="Default Changelist" comment="" />
+      <created>1616732825667</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1616732825667</updated>
+    </task>
+    <servers />
+  </component>
+</project>
